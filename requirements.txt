@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic[email]
+pydantic-settings  # Handles loading from .env files cleanly
+httpx
+beautifulsoup4
+# For Bonus
+sqlalchemy
+pymysql
