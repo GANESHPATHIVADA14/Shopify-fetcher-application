@@ -1,0 +1,1 @@
+# Shopify-fetcher-application
